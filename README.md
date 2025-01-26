@@ -1,1 +1,2 @@
-# C-Programming
+This repository contains C programming files showcasing various programs and  implemented using the C programming language. C is a powerful, general-purpose programming language that is widely used for system/software development and embedded systems.
+In this repository, you will find examples of basic to advanced concepts of C programming, including data structures, algorithms, and more. The goal of this repository is to provide clear, efficient, and reusable code for learners and developers who wish to explore C programming in depth.
